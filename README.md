@@ -40,3 +40,6 @@ FUTURE SCOPE
 
 
 This README provides an overview of the INSTACLONE project, its features, tools, technologies, and potential future enhancements.
+
+![Instagramclone_Outlookimg](https://github.com/user-attachments/assets/daa1bb76-2dc4-4c6a-8960-0d190a3ea1dd)
+
